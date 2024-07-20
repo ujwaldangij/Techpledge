@@ -1,9 +1,9 @@
 # TechPledge
 
-![TechPledge login](public/images/login.png)
-![TechPledge pledge](public/images/main.png)
-![TechPledge thank You](public/images/thankyou.png)
-![TechPledge download](public/images/download.png)
+![TechPledge login](public/git/login.png)
+![TechPledge pledge](public/git/main.png)
+![TechPledge thank You](public/git/thankyou.png)
+![TechPledge download](public/git/download.png)
 
 ## Overview
 
