@@ -1,6 +1,9 @@
 # TechPledge
 
-![TechPledge Logo](public/images/logo.png)
+![TechPledge login](public/images/login.png)
+![TechPledge pledge](public/images/main.png)
+![TechPledge thank You](public/images/thankyou.png)
+![TechPledge download](public/images/download.png)
 
 ## Overview
 
